@@ -8,3 +8,4 @@ Skills:
 - AWS
 - Docker
 - DevOps
+I completed my first Git commit.
